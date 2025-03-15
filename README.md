@@ -4,11 +4,11 @@ This repository contains a collection of pricing models, forecasting tools, and 
 
 ## Features
 
-- 📈 **Pricing Models**: Implementations of financial pricing techniques in `pricing_models.py`.
-- 🔮 **Forecasting Models**: Predictive analytics for financial data in `forecast_models.py`.
-- 📊 **Data Analysis & Visualization**: Jupyter notebooks for bucket analysis, rate tables, and multipliers.
-- 🏦 **Financial Datasets**: Historical deal and revenue data for modeling and validation.
-- 📜 **Documentation & Licensing**: A `README.md` for setup instructions and a `LICENSE` for terms of use.
+-  **Pricing Models**: Implementations of financial pricing techniques in `pricing_models.py`.
+-  **Forecasting Models**: Predictive analytics for financial data in `forecast_models.py`.
+-  **Data Analysis & Visualization**: Jupyter notebooks for bucket analysis, rate tables, and multipliers.
+-  **Financial Datasets**: Historical deal and revenue data for modeling and validation.
+-  **Documentation & Licensing**: A `README.md` for setup instructions and a `LICENSE` for terms of use.
 
 ## Project Structure
 
