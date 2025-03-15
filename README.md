@@ -12,4 +12,22 @@ This repository contains a collection of pricing models, forecasting tools, and 
 
 ## Project Structure
 
-📂 Pricing Models & Forecasting Framework ├── 📜 README.md # Project overview & instructions ├── 📜 LICENSE # Licensing terms │ ├── 📂 notebooks/ # Jupyter notebooks for data exploration │ ├── 📄 buckets.ipynb # Risk & pricing bucket analysis │ ├── 📄 fixed_rates_table.ipynb # Fixed rate computations │ ├── 📄 inverse_computing.ipynb # Implied pricing calculations │ ├── 📄 multiplier_visualization.ipynb # Multiplier analysis & visualization │ ├── 📂 data/ # Raw financial data │ ├── 📊 revenues_and_deals.csv │ ├── 📊 royalty_exchange_deals_revenues.csv │ ├── 📊 royalty_exchange_quarterly_revenues.csv │ ├── 📊 deals1.xlsx │ ├── 📊 deals2.xlsx │ ├── 📝 pricing_models.py # Core pricing model implementations ├── 📝 forecast_models.py # Financial forecasting methods
+📂 Pricing Models & Forecasting Framework
+├── 📜 README.md # Project overview & instructions
+├── 📜 LICENSE # Licensing terms
+│
+├── 📂 notebooks/ # Jupyter notebooks for data exploration
+│ ├── 📄 buckets.ipynb # Risk & pricing bucket analysis
+│ ├── 📄 fixed_rates_table.ipynb # Fixed rate computations
+│ ├── 📄 inverse_computing.ipynb # Implied pricing calculations
+│ ├── 📄 multiplier_visualization.ipynb # Multiplier analysis & visualization
+│
+├── 📂 data/ # Raw financial data
+│ ├── 📊 revenues_and_deals.csv
+│ ├── 📊 royalty_exchange_deals_revenues.csv
+│ ├── 📊 royalty_exchange_quarterly_revenues.csv
+│ ├── 📊 deals1.xlsx
+│ ├── 📊 deals2.xlsx
+│
+├── 📝 pricing_models.py # Core pricing model implementations
+├── 📝 forecast_models.py # Financial forecasting methods
