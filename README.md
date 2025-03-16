@@ -28,7 +28,7 @@ This repository contains a collection of pricing models, forecasting tools, and 
 
 │ ├── 📄 inverse_computing.ipynb # Implied pricing calculations
 
-│ ├── 📄 multiplier_visualization.ipynb # Multiplier analysis & visualization
+│ ├── 📄 multiplier_visualization.ipynb # Multiplier analysis & visualization 
 
 │
 
