@@ -1,6 +1,6 @@
 # Pricing Models & Forecasting Framework
 
-This repository contains a collection of pricing models, forecasting tools, and data analysis methods designed for financial applications. It includes Python scripts and Jupyter notebooks for modeling, visualization, and inverse computations. The project leverages structured data to analyze revenue trends, deal structures, and financial multipliers.
+This repository contains a collection of pricing models, forecasting tools, and data analysis methods designed for financial applications. It includes Python scripts and Jupyter notebooks for modeling, visualization, and inverse computations. The project leverages structured data to analyze revenue trends, deal structures, and financial multipliers. 
 
 ## Features
 
